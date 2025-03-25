@@ -8,7 +8,7 @@ const Loading = () => {
     <div>
       <Header />
       <main>
-        <div className="loading"></div>s
+        <div className="loading"></div>
       </main>
       <Footer />
     </div>

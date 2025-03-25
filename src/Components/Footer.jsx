@@ -8,7 +8,9 @@ const Footer = () => {
     <div className="myfooter">
       <footer className={`ali ${theme}`}>
         Designed and developed by Ziad
-        <span>🧡</span>
+        <span>
+          <i className="fa-solid fa-heart"></i>
+        </span>
       </footer>
     </div>
   );
